@@ -1,0 +1,5077 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2023-06-29T05:52:49.993Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Subject object (1)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2023-06-29T05:53:00.364Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "Subject object (2)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2023-06-29T05:53:17.761Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "Subject object (3)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2023-06-29T05:53:22.276Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "4",
+      "object_repr": "Subject object (4)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2023-06-29T05:53:25.099Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "Subject object (5)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2023-06-29T05:53:29.243Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "6",
+      "object_repr": "Subject object (6)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2023-06-29T05:53:34.087Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "7",
+      "object_repr": "Subject object (7)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2023-06-29T05:53:38.941Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "8",
+      "object_repr": "Subject object (8)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2023-06-29T05:53:47.110Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "9",
+      "object_repr": "Subject object (9)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2023-06-29T05:53:53.175Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Subject object (1)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u0440\\u0435\\u0434\\u043c\\u0435\\u0442 \\u0415\\u0413\\u042d\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2023-06-29T05:53:58.715Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "10",
+      "object_repr": "Subject object (10)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2023-06-29T05:54:11.438Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "11",
+      "object_repr": "Subject object (11)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2023-06-29T05:55:09.713Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "FieldOfStudy object (1)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2023-06-29T06:14:53.024Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "2",
+      "object_repr": "Speciality object (2)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2023-06-29T12:11:27.778Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "723469534",
+      "object_repr": "TelegramUser object (723469534)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u0430\\u0431\\u0430\\u043d\\u0435\\u043d\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+      "action_time": "2023-06-29T13:08:17.123Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "6132850568",
+      "object_repr": "TelegramUser object (6132850568)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+      "action_time": "2023-06-29T13:09:36.212Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "723469534",
+      "object_repr": "TelegramUser object (723469534)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u0430\\u0431\\u0430\\u043d\\u0435\\u043d\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+      "action_time": "2023-06-29T13:09:53.579Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "723469534",
+      "object_repr": "TelegramUser object (723469534)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+      "action_time": "2023-06-29T13:10:04.072Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "723469534",
+      "object_repr": "TelegramUser object (723469534)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+      "action_time": "2023-06-29T13:41:01.938Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "9",
+      "object_repr": "Иностранный язык",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u0440\\u0435\\u0434\\u043c\\u0435\\u0442 \\u0415\\u0413\\u042d\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+      "action_time": "2023-06-29T15:47:41.072Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "12",
+      "object_repr": "География",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+      "action_time": "2023-06-29T15:50:14.247Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "3",
+      "object_repr": "SpecialityAndDirection object (3)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+      "action_time": "2023-06-29T15:56:04.871Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "7",
+      "object_repr": "SpecialityAndDirection object (7)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+      "action_time": "2023-06-29T15:56:04.875Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "6",
+      "object_repr": "SpecialityAndDirection object (6)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+      "action_time": "2023-06-29T15:56:04.877Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "5",
+      "object_repr": "SpecialityAndDirection object (5)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+      "action_time": "2023-06-29T15:57:45.853Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "8",
+      "object_repr": "SpecialityAndDirection object (8)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+      "action_time": "2023-06-29T15:58:17.133Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "9",
+      "object_repr": "SpecialityAndDirection object (9)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+      "action_time": "2023-06-29T15:58:59.112Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "10",
+      "object_repr": "SpecialityAndDirection object (10)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+      "action_time": "2023-06-29T15:59:32.325Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "11",
+      "object_repr": "SpecialityAndDirection object (11)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+      "action_time": "2023-06-29T16:00:24.769Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "12",
+      "object_repr": "SpecialityAndDirection object (12)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+      "action_time": "2023-06-29T16:01:15.949Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "13",
+      "object_repr": "SpecialityAndDirection object (13)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+      "action_time": "2023-06-29T16:06:38.689Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Русский язык",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+      "action_time": "2023-06-29T16:12:28.306Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "13",
+      "object_repr": "SpecialityAndDirection object (13)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u0440\\u0435\\u0434\\u043c\\u0435\\u0442\\u044b \\u043d\\u0430 \\u0432\\u044b\\u0431\\u043e\\u0440 \\u0415\\u0413\\u042d \\u0434\\u043b\\u044f \\u043f\\u043e\\u0441\\u0442\\u0443\\u043f\\u043b\\u0435\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+      "action_time": "2023-06-29T16:13:22.114Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "14",
+      "object_repr": "SpecialityAndDirection object (14)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+      "action_time": "2023-06-29T16:14:02.671Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "14",
+      "object_repr": "SpecialityAndDirection object (14)",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+      "action_time": "2023-06-29T16:14:29.103Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "15",
+      "object_repr": "SpecialityAndDirection object (15)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+      "action_time": "2023-06-29T16:14:43.224Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "16",
+      "object_repr": "SpecialityAndDirection object (16)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+      "action_time": "2023-06-29T16:17:23.088Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "17",
+      "object_repr": "SpecialityAndDirection object (17)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+      "action_time": "2023-06-29T16:19:58.198Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "18",
+      "object_repr": "SpecialityAndDirection object (18)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+      "action_time": "2023-06-29T16:20:39.708Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "19",
+      "object_repr": "SpecialityAndDirection object (19)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+      "action_time": "2023-06-29T16:21:24.191Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "20",
+      "object_repr": "SpecialityAndDirection object (20)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+      "action_time": "2023-06-29T16:21:55.091Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "21",
+      "object_repr": "SpecialityAndDirection object (21)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+      "action_time": "2023-06-29T16:22:21.631Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "21",
+      "object_repr": "SpecialityAndDirection object (21)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0421\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u044c \\u0438\\u043b\\u0438 \\u041d\\u0430\\u043f\\u0440\\u0430\\u0432\\u043b\\u0435\\u043d\\u0438\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+      "action_time": "2023-06-29T16:23:03.137Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "13",
+      "object_repr": "Проф испытания",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+      "action_time": "2023-06-29T16:23:11.762Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "22",
+      "object_repr": "SpecialityAndDirection object (22)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+      "action_time": "2023-06-29T16:23:41.675Z",
+      "user": 1,
+      "content_type": 11,
+      "object_id": "23",
+      "object_repr": "SpecialityAndDirection object (23)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+      "action_time": "2023-06-29T17:02:17.869Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "Математика",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u0440\\u0435\\u0434\\u043c\\u0435\\u0442 \\u0415\\u0413\\u042d\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+      "action_time": "2023-06-29T17:02:39.900Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "Мат. Профиль",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041f\\u0440\\u0435\\u0434\\u043c\\u0435\\u0442 \\u0415\\u0413\\u042d\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+      "action_time": "2023-06-30T04:48:20.545Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "тестовая",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+      "action_time": "2023-06-30T14:33:58.000Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "Техника и технологии строительства",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+      "action_time": "2023-06-30T14:43:13.272Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "Speciality object (1)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+      "action_time": "2023-06-30T14:56:57.320Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "2",
+      "object_repr": "Speciality object (2)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+      "action_time": "2023-06-30T14:57:11.481Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "Speciality object (1)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u0434 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\", \"\\u0412\\u0438\\u0434 \\u041e\\u0431\\u0443\\u0447\\u0435\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+      "action_time": "2023-06-30T14:57:20.652Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "Speciality object (1)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0412\\u0438\\u0434 \\u041e\\u0431\\u0443\\u0447\\u0435\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+      "action_time": "2023-06-30T14:57:33.613Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "Speciality object (1)",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+      "action_time": "2023-06-30T14:59:05.997Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "3",
+      "object_repr": "Speciality object (3)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+      "action_time": "2023-06-30T15:01:04.599Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "4",
+      "object_repr": "Speciality object (4)",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 58,
+    "fields": {
+      "action_time": "2023-06-30T15:03:01.573Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "2",
+      "object_repr": "Speciality object (2)",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 59,
+    "fields": {
+      "action_time": "2023-06-30T15:17:10.756Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "4",
+      "object_repr": "Информационная безопасность",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 60,
+    "fields": {
+      "action_time": "2023-06-30T15:18:35.157Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "5",
+      "object_repr": "Информационная безопасность автоматизированных системвид:1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 61,
+    "fields": {
+      "action_time": "2023-06-30T15:20:02.370Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "5",
+      "object_repr": "Техносферная безопасность и природообустройство",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 62,
+    "fields": {
+      "action_time": "2023-06-30T15:21:16.703Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "6",
+      "object_repr": "Пожарная безопасностьвид:1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 63,
+    "fields": {
+      "action_time": "2023-06-30T15:23:20.898Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "7",
+      "object_repr": "Техносферная безопасностьвид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 64,
+    "fields": {
+      "action_time": "2023-06-30T15:23:56.526Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "6",
+      "object_repr": "Прикладная геология, горное дело, нефтегазовое дело и геодезия",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 65,
+    "fields": {
+      "action_time": "2023-06-30T15:25:25.252Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "8",
+      "object_repr": "Нефтегазовое деловид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 66,
+    "fields": {
+      "action_time": "2023-06-30T15:27:19.205Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "7",
+      "object_repr": "Техника и технологии наземного транспорта",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 67,
+    "fields": {
+      "action_time": "2023-06-30T15:28:42.012Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "9",
+      "object_repr": "Наземные транспортно-технологические средствавид:1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 68,
+    "fields": {
+      "action_time": "2023-06-30T15:29:54.392Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "10",
+      "object_repr": "Подвижной состав железных дорогвид:1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 69,
+    "fields": {
+      "action_time": "2023-06-30T15:31:02.135Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "11",
+      "object_repr": "Эксплуатация железных дорогвид:1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 70,
+    "fields": {
+      "action_time": "2023-06-30T15:32:57.886Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "12",
+      "object_repr": "Системы обеспечения движения поездоввид:1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 71,
+    "fields": {
+      "action_time": "2023-06-30T15:34:18.347Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "13",
+      "object_repr": "Строительство железных дорог, мостов и транспортных тоннелейвид:1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 72,
+    "fields": {
+      "action_time": "2023-06-30T15:35:43.336Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "14",
+      "object_repr": "Технология транспортных процессоввид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 73,
+    "fields": {
+      "action_time": "2023-06-30T15:37:19.815Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "15",
+      "object_repr": "Наземные транспортно-технологические комплексывид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 74,
+    "fields": {
+      "action_time": "2023-06-30T15:38:22.169Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "16",
+      "object_repr": "Эксплуатация транспортно-технологических машин и комплексоввид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 75,
+    "fields": {
+      "action_time": "2023-06-30T15:39:21.011Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "14",
+      "object_repr": "Русский язык",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 76,
+    "fields": {
+      "action_time": "2023-06-30T15:39:42.398Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "7",
+      "object_repr": "Техносферная безопасностьвид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u044b\\u0435 \\u043f\\u0440\\u0435\\u0434\\u043c\\u0435\\u0442\\u044b \\u0415\\u0413\\u042d \\u0434\\u043b\\u044f \\u043f\\u043e\\u0441\\u0442\\u0443\\u043f\\u043b\\u0435\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 77,
+    "fields": {
+      "action_time": "2023-06-30T15:39:48.481Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "Строительство уникальных зданий и сооруженийвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u044b\\u0435 \\u043f\\u0440\\u0435\\u0434\\u043c\\u0435\\u0442\\u044b \\u0415\\u0413\\u042d \\u0434\\u043b\\u044f \\u043f\\u043e\\u0441\\u0442\\u0443\\u043f\\u043b\\u0435\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 78,
+    "fields": {
+      "action_time": "2023-06-30T15:39:53.342Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "3",
+      "object_repr": "Строительство, эксплуатация, восстановление и техническое прикрытвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u044b\\u0435 \\u043f\\u0440\\u0435\\u0434\\u043c\\u0435\\u0442\\u044b \\u0415\\u0413\\u042d \\u0434\\u043b\\u044f \\u043f\\u043e\\u0441\\u0442\\u0443\\u043f\\u043b\\u0435\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 79,
+    "fields": {
+      "action_time": "2023-06-30T15:39:58.500Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "4",
+      "object_repr": "Строительствовид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u044b\\u0435 \\u043f\\u0440\\u0435\\u0434\\u043c\\u0435\\u0442\\u044b \\u0415\\u0413\\u042d \\u0434\\u043b\\u044f \\u043f\\u043e\\u0441\\u0442\\u0443\\u043f\\u043b\\u0435\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 80,
+    "fields": {
+      "action_time": "2023-06-30T15:40:10.593Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "Строительство уникальных зданий и сооруженийвид:1",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 81,
+    "fields": {
+      "action_time": "2023-06-30T15:40:17.962Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "5",
+      "object_repr": "Информационная безопасность автоматизированных системвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u044b\\u0435 \\u043f\\u0440\\u0435\\u0434\\u043c\\u0435\\u0442\\u044b \\u0415\\u0413\\u042d \\u0434\\u043b\\u044f \\u043f\\u043e\\u0441\\u0442\\u0443\\u043f\\u043b\\u0435\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 82,
+    "fields": {
+      "action_time": "2023-06-30T15:40:23.385Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "5",
+      "object_repr": "Информационная безопасность автоматизированных системвид:1",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 83,
+    "fields": {
+      "action_time": "2023-06-30T15:40:29.588Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "7",
+      "object_repr": "Техносферная безопасностьвид:2",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 84,
+    "fields": {
+      "action_time": "2023-06-30T15:40:36.222Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "16",
+      "object_repr": "Эксплуатация транспортно-технологических машин и комплексоввид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u044b\\u0435 \\u043f\\u0440\\u0435\\u0434\\u043c\\u0435\\u0442\\u044b \\u0415\\u0413\\u042d \\u0434\\u043b\\u044f \\u043f\\u043e\\u0441\\u0442\\u0443\\u043f\\u043b\\u0435\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 85,
+    "fields": {
+      "action_time": "2023-06-30T15:40:41.448Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "15",
+      "object_repr": "Наземные транспортно-технологические комплексывид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u044b\\u0435 \\u043f\\u0440\\u0435\\u0434\\u043c\\u0435\\u0442\\u044b \\u0415\\u0413\\u042d \\u0434\\u043b\\u044f \\u043f\\u043e\\u0441\\u0442\\u0443\\u043f\\u043b\\u0435\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 86,
+    "fields": {
+      "action_time": "2023-06-30T15:40:44.079Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "8",
+      "object_repr": "Психологические науки",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 87,
+    "fields": {
+      "action_time": "2023-06-30T15:40:47.009Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "14",
+      "object_repr": "Технология транспортных процессоввид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u044b\\u0435 \\u043f\\u0440\\u0435\\u0434\\u043c\\u0435\\u0442\\u044b \\u0415\\u0413\\u042d \\u0434\\u043b\\u044f \\u043f\\u043e\\u0441\\u0442\\u0443\\u043f\\u043b\\u0435\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 88,
+    "fields": {
+      "action_time": "2023-06-30T15:40:52.023Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "13",
+      "object_repr": "Строительство железных дорог, мостов и транспортных тоннелейвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u044b\\u0435 \\u043f\\u0440\\u0435\\u0434\\u043c\\u0435\\u0442\\u044b \\u0415\\u0413\\u042d \\u0434\\u043b\\u044f \\u043f\\u043e\\u0441\\u0442\\u0443\\u043f\\u043b\\u0435\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 89,
+    "fields": {
+      "action_time": "2023-06-30T15:40:57.418Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "12",
+      "object_repr": "Системы обеспечения движения поездоввид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u044b\\u0435 \\u043f\\u0440\\u0435\\u0434\\u043c\\u0435\\u0442\\u044b \\u0415\\u0413\\u042d \\u0434\\u043b\\u044f \\u043f\\u043e\\u0441\\u0442\\u0443\\u043f\\u043b\\u0435\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 90,
+    "fields": {
+      "action_time": "2023-06-30T15:41:02.898Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "11",
+      "object_repr": "Эксплуатация железных дорогвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u044b\\u0435 \\u043f\\u0440\\u0435\\u0434\\u043c\\u0435\\u0442\\u044b \\u0415\\u0413\\u042d \\u0434\\u043b\\u044f \\u043f\\u043e\\u0441\\u0442\\u0443\\u043f\\u043b\\u0435\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 91,
+    "fields": {
+      "action_time": "2023-06-30T15:43:14.296Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "8",
+      "object_repr": "Нефтегазовое деловид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u044b\\u0435 \\u043f\\u0440\\u0435\\u0434\\u043c\\u0435\\u0442\\u044b \\u0415\\u0413\\u042d \\u0434\\u043b\\u044f \\u043f\\u043e\\u0441\\u0442\\u0443\\u043f\\u043b\\u0435\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 92,
+    "fields": {
+      "action_time": "2023-06-30T15:43:19.173Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "9",
+      "object_repr": "Наземные транспортно-технологические средствавид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u044b\\u0435 \\u043f\\u0440\\u0435\\u0434\\u043c\\u0435\\u0442\\u044b \\u0415\\u0413\\u042d \\u0434\\u043b\\u044f \\u043f\\u043e\\u0441\\u0442\\u0443\\u043f\\u043b\\u0435\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 93,
+    "fields": {
+      "action_time": "2023-06-30T15:43:23.953Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "10",
+      "object_repr": "Подвижной состав железных дорогвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u044b\\u0435 \\u043f\\u0440\\u0435\\u0434\\u043c\\u0435\\u0442\\u044b \\u0415\\u0413\\u042d \\u0434\\u043b\\u044f \\u043f\\u043e\\u0441\\u0442\\u0443\\u043f\\u043b\\u0435\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 94,
+    "fields": {
+      "action_time": "2023-06-30T15:43:27.361Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "11",
+      "object_repr": "Эксплуатация железных дорогвид:1",
+      "action_flag": 2,
+      "change_message": "[]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 95,
+    "fields": {
+      "action_time": "2023-06-30T15:44:21.703Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "17",
+      "object_repr": "Психология служебной деятельностивид:1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 96,
+    "fields": {
+      "action_time": "2023-06-30T15:45:32.986Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "6",
+      "object_repr": "Пожарная безопасностьвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u0441\\u043d\\u043e\\u0432\\u043d\\u044b\\u0435 \\u043f\\u0440\\u0435\\u0434\\u043c\\u0435\\u0442\\u044b \\u0415\\u0413\\u042d \\u0434\\u043b\\u044f \\u043f\\u043e\\u0441\\u0442\\u0443\\u043f\\u043b\\u0435\\u043d\\u0438\\u044f\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 97,
+    "fields": {
+      "action_time": "2023-06-30T15:48:06.689Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "9",
+      "object_repr": "Экономика и управление",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 98,
+    "fields": {
+      "action_time": "2023-06-30T15:49:38.739Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "18",
+      "object_repr": "Экономическая безопасностьвид:1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 99,
+    "fields": {
+      "action_time": "2023-06-30T15:51:29.001Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "19",
+      "object_repr": "Таможенное деловид:1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 100,
+    "fields": {
+      "action_time": "2023-06-30T15:53:49.667Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "20",
+      "object_repr": "Экономикавид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 101,
+    "fields": {
+      "action_time": "2023-06-30T15:54:56.513Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "21",
+      "object_repr": "Менеджментвид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 102,
+    "fields": {
+      "action_time": "2023-06-30T15:55:54.683Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "22",
+      "object_repr": "Торговое деловид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 103,
+    "fields": {
+      "action_time": "2023-06-30T15:57:55.798Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "10",
+      "object_repr": "Юриспруденция",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 104,
+    "fields": {
+      "action_time": "2023-06-30T15:59:02.622Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "23",
+      "object_repr": "Правовое обеспечение национальной безопасностивид:1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 105,
+    "fields": {
+      "action_time": "2023-06-30T16:00:20.203Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "24",
+      "object_repr": "Юриспруденциявид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 106,
+    "fields": {
+      "action_time": "2023-06-30T16:01:29.248Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "11",
+      "object_repr": "Политические науки и регионоведение",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 107,
+    "fields": {
+      "action_time": "2023-06-30T16:02:47.867Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "25",
+      "object_repr": "Международные отношениявид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 108,
+    "fields": {
+      "action_time": "2023-06-30T16:03:30.093Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "12",
+      "object_repr": "Сервис и туризм",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 109,
+    "fields": {
+      "action_time": "2023-06-30T16:04:40.543Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "26",
+      "object_repr": "Сервисвид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 110,
+    "fields": {
+      "action_time": "2023-06-30T16:05:39.452Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "27",
+      "object_repr": "Туризмвид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 111,
+    "fields": {
+      "action_time": "2023-06-30T16:06:05.262Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "13",
+      "object_repr": "Языкознание и литературоведение",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 112,
+    "fields": {
+      "action_time": "2023-06-30T16:08:08.487Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "28",
+      "object_repr": "Интеллектуальные системы в гуманитарной сферевид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 113,
+    "fields": {
+      "action_time": "2023-07-01T13:02:25.405Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "14",
+      "object_repr": "Русский язык",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 114,
+    "fields": {
+      "action_time": "2023-07-01T13:02:29.678Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "13",
+      "object_repr": "Проф испытания",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 115,
+    "fields": {
+      "action_time": "2023-07-01T13:02:34.947Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "12",
+      "object_repr": "География",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 116,
+    "fields": {
+      "action_time": "2023-07-01T13:02:38.325Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "13",
+      "object_repr": "Проф испытания",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 117,
+    "fields": {
+      "action_time": "2023-07-01T13:02:43.067Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "11",
+      "object_repr": "Французский язык",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 118,
+    "fields": {
+      "action_time": "2023-07-01T13:02:47.899Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "10",
+      "object_repr": "Литература",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 119,
+    "fields": {
+      "action_time": "2023-07-01T13:02:53.910Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "9",
+      "object_repr": "Иностранный язык",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 120,
+    "fields": {
+      "action_time": "2023-07-01T13:02:59.549Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "8",
+      "object_repr": "История",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 121,
+    "fields": {
+      "action_time": "2023-07-01T13:03:05.079Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "7",
+      "object_repr": "Обществознание",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 122,
+    "fields": {
+      "action_time": "2023-07-01T13:03:10.500Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "6",
+      "object_repr": "Физика",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 123,
+    "fields": {
+      "action_time": "2023-07-01T13:03:16.183Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "Химия",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 124,
+    "fields": {
+      "action_time": "2023-07-01T13:03:21.799Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "4",
+      "object_repr": "Биология",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 125,
+    "fields": {
+      "action_time": "2023-07-01T13:03:26.497Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "Информатика",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 126,
+    "fields": {
+      "action_time": "2023-07-01T13:03:32.448Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "Мат. Профиль",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 127,
+    "fields": {
+      "action_time": "2023-07-01T15:19:36.095Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "14",
+      "object_repr": "Русский язык",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 128,
+    "fields": {
+      "action_time": "2023-07-05T01:32:08.164Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "Химия",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 129,
+    "fields": {
+      "action_time": "2023-07-05T01:32:12.244Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "13",
+      "object_repr": "Проф испытания",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 130,
+    "fields": {
+      "action_time": "2023-07-05T01:32:15.564Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "12",
+      "object_repr": "География",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 131,
+    "fields": {
+      "action_time": "2023-07-05T01:32:18.974Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "11",
+      "object_repr": "Французский язык",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 132,
+    "fields": {
+      "action_time": "2023-07-05T01:32:23.875Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "10",
+      "object_repr": "Литература",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 133,
+    "fields": {
+      "action_time": "2023-07-05T01:32:28.091Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "9",
+      "object_repr": "Иностранный язык",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 134,
+    "fields": {
+      "action_time": "2023-07-05T01:32:32.192Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "8",
+      "object_repr": "История",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 135,
+    "fields": {
+      "action_time": "2023-07-05T01:32:36.628Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "7",
+      "object_repr": "Обществознание",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 136,
+    "fields": {
+      "action_time": "2023-07-05T01:32:48.644Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "6",
+      "object_repr": "Физика",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 137,
+    "fields": {
+      "action_time": "2023-07-05T01:32:53.121Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "4",
+      "object_repr": "Биология",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 138,
+    "fields": {
+      "action_time": "2023-07-05T01:32:58.162Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "Информатика",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 139,
+    "fields": {
+      "action_time": "2023-07-05T01:33:01.993Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "Мат. Профиль",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0414\\u043b\\u044f \\u0440\\u0430\\u0431\\u043e\\u0442\\u044b \\u0432 \\u0442\\u0435\\u043b\\u0435\\u0433\\u0440\\u0430\\u043c\\u043c\\u0435\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 140,
+    "fields": {
+      "action_time": "2023-07-05T01:37:41.001Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "723469534",
+      "object_repr": "TelegramUser object (723469534)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u0430\\u0431\\u0430\\u043d\\u0435\\u043d\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 141,
+    "fields": {
+      "action_time": "2023-07-05T01:37:51.558Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "723469534",
+      "object_repr": "TelegramUser object (723469534)",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u0430\\u0431\\u0430\\u043d\\u0435\\u043d\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 142,
+    "fields": {
+      "action_time": "2023-07-09T05:58:29.864Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "27",
+      "object_repr": "Туризмвид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 143,
+    "fields": {
+      "action_time": "2023-07-09T05:59:10.101Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "28",
+      "object_repr": "Интеллектуальные системы в гуманитарной сферевид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 144,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.433Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "28",
+      "object_repr": "Интеллектуальные системы в гуманитарной сферевид:2",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 145,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.442Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "27",
+      "object_repr": "Туризмвид:2",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 146,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.443Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "26",
+      "object_repr": "Сервисвид:2",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 147,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.445Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "25",
+      "object_repr": "Международные отношениявид:2",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 148,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.448Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "24",
+      "object_repr": "Юриспруденциявид:2",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 149,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.450Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "23",
+      "object_repr": "Правовое обеспечение национальной безопасностивид:1",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 150,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.453Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "22",
+      "object_repr": "Торговое деловид:2",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 151,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.455Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "21",
+      "object_repr": "Менеджментвид:2",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 152,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.457Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "20",
+      "object_repr": "Экономикавид:2",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 153,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.458Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "19",
+      "object_repr": "Таможенное деловид:1",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 154,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.460Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "18",
+      "object_repr": "Экономическая безопасностьвид:1",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 155,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.462Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "17",
+      "object_repr": "Психология служебной деятельностивид:1",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 156,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.463Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "16",
+      "object_repr": "Эксплуатация транспортно-технологических машин и комплексоввид:2",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 157,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.465Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "15",
+      "object_repr": "Наземные транспортно-технологические комплексывид:2",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 158,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.467Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "14",
+      "object_repr": "Технология транспортных процессоввид:2",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 159,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.468Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "13",
+      "object_repr": "Строительство железных дорог, мостов и транспортных тоннелейвид:1",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 160,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.469Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "12",
+      "object_repr": "Системы обеспечения движения поездоввид:1",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 161,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.471Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "11",
+      "object_repr": "Эксплуатация железных дорогвид:1",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 162,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.473Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "10",
+      "object_repr": "Подвижной состав железных дорогвид:1",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 163,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.475Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "9",
+      "object_repr": "Наземные транспортно-технологические средствавид:1",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 164,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.476Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "8",
+      "object_repr": "Нефтегазовое деловид:2",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 165,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.477Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "7",
+      "object_repr": "Техносферная безопасностьвид:2",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 166,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.480Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "6",
+      "object_repr": "Пожарная безопасностьвид:1",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 167,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.482Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "5",
+      "object_repr": "Информационная безопасность автоматизированных системвид:1",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 168,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.484Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "4",
+      "object_repr": "Строительствовид:2",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 169,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.485Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "3",
+      "object_repr": "Строительство, эксплуатация, восстановление и техническое прикрытвид:1",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 170,
+    "fields": {
+      "action_time": "2023-07-09T06:24:36.487Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "Строительство уникальных зданий и сооруженийвид:1",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 171,
+    "fields": {
+      "action_time": "2023-07-09T06:24:42.773Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "13",
+      "object_repr": "Языкознание и литературоведение",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 172,
+    "fields": {
+      "action_time": "2023-07-09T06:24:42.777Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "12",
+      "object_repr": "Сервис и туризм",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 173,
+    "fields": {
+      "action_time": "2023-07-09T06:24:42.778Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "11",
+      "object_repr": "Политические науки и регионоведение",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 174,
+    "fields": {
+      "action_time": "2023-07-09T06:24:42.780Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "10",
+      "object_repr": "Юриспруденция",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 175,
+    "fields": {
+      "action_time": "2023-07-09T06:24:42.782Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "9",
+      "object_repr": "Экономика и управление",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 176,
+    "fields": {
+      "action_time": "2023-07-09T06:24:42.784Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "8",
+      "object_repr": "Психологические науки",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 177,
+    "fields": {
+      "action_time": "2023-07-09T06:24:42.785Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "7",
+      "object_repr": "Техника и технологии наземного транспорта",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 178,
+    "fields": {
+      "action_time": "2023-07-09T06:24:42.787Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "6",
+      "object_repr": "Прикладная геология, горное дело, нефтегазовое дело и геодезия",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 179,
+    "fields": {
+      "action_time": "2023-07-09T06:24:42.788Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "5",
+      "object_repr": "Техносферная безопасность и природообустройство",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 180,
+    "fields": {
+      "action_time": "2023-07-09T06:24:42.790Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "4",
+      "object_repr": "Информационная безопасность",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 181,
+    "fields": {
+      "action_time": "2023-07-09T06:24:42.791Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "Техника и технологии строительства",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 182,
+    "fields": {
+      "action_time": "2023-07-09T06:24:42.792Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Информатика и вычислительная техника",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 183,
+    "fields": {
+      "action_time": "2023-07-09T06:43:50.668Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "29",
+      "object_repr": "Строительство уникальных зданий и сооруженийвид:1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 184,
+    "fields": {
+      "action_time": "2023-07-09T13:38:56.801Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "Строительство уникальных зданий и сооруженийвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 185,
+    "fields": {
+      "action_time": "2023-07-09T13:39:17.905Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "3",
+      "object_repr": "Строительство, эксплуатация, восстановление и техническое прикрытвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 186,
+    "fields": {
+      "action_time": "2023-07-09T13:39:40.912Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "5",
+      "object_repr": "Информационная безопасность автоматизированных системвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 187,
+    "fields": {
+      "action_time": "2023-07-09T13:40:00.632Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "6",
+      "object_repr": "Пожарная безопасностьвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 188,
+    "fields": {
+      "action_time": "2023-07-09T13:40:47.948Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "Строительство уникальных зданий и сооруженийвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 189,
+    "fields": {
+      "action_time": "2023-07-09T13:43:25.790Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "9",
+      "object_repr": "Наземные транспортно-технологические средствавид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 190,
+    "fields": {
+      "action_time": "2023-07-09T13:43:42.172Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "10",
+      "object_repr": "Подвижной состав железных дорогвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 191,
+    "fields": {
+      "action_time": "2023-07-09T13:44:05.064Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "11",
+      "object_repr": "Эксплуатация железных дорогвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 192,
+    "fields": {
+      "action_time": "2023-07-09T13:44:21.429Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "12",
+      "object_repr": "Системы обеспечения движения поездоввид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 193,
+    "fields": {
+      "action_time": "2023-07-09T13:44:41.997Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "13",
+      "object_repr": "Строительство железных дорог, мостов и транспортных тоннелейвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 194,
+    "fields": {
+      "action_time": "2023-07-09T13:44:57.005Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "17",
+      "object_repr": "Психология служебной деятельностивид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 195,
+    "fields": {
+      "action_time": "2023-07-09T13:46:05.754Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "18",
+      "object_repr": "Экономическая безопасностьвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 196,
+    "fields": {
+      "action_time": "2023-07-09T13:46:49.329Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "19",
+      "object_repr": "Таможенное деловид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\", \"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 197,
+    "fields": {
+      "action_time": "2023-07-09T13:47:08.735Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "23",
+      "object_repr": "Правовое обеспечение национальной безопасностивид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 198,
+    "fields": {
+      "action_time": "2023-07-09T13:50:33.198Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "3",
+      "object_repr": "Строительство, эксплуатация, восстановление и техническое прикрытие автомобильных дорог, мостов и тоннелейвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u0421\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u044c\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 199,
+    "fields": {
+      "action_time": "2023-07-09T13:52:50.457Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "29",
+      "object_repr": "Прикладная математика и информатикавид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 200,
+    "fields": {
+      "action_time": "2023-07-09T13:53:58.346Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "14",
+      "object_repr": "Строительство",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 201,
+    "fields": {
+      "action_time": "2023-07-09T13:54:10.735Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "30",
+      "object_repr": "Градостроительствовид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 202,
+    "fields": {
+      "action_time": "2023-07-09T13:55:02.570Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "4",
+      "object_repr": "Строительствовид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 203,
+    "fields": {
+      "action_time": "2023-07-09T13:56:06.379Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "31",
+      "object_repr": "Информатика и вычислительная техникавид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 204,
+    "fields": {
+      "action_time": "2023-07-09T13:56:43.429Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "32",
+      "object_repr": "Информационные системы и технологиивид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 205,
+    "fields": {
+      "action_time": "2023-07-09T13:57:12.007Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "33",
+      "object_repr": "Прикладная информатикавид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 206,
+    "fields": {
+      "action_time": "2023-07-09T13:57:38.215Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "34",
+      "object_repr": "Программная инженериявид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 207,
+    "fields": {
+      "action_time": "2023-07-09T13:58:09.425Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "35",
+      "object_repr": "Инфокоммуникационные технологии и системы связивид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 208,
+    "fields": {
+      "action_time": "2023-07-09T13:58:32.337Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "36",
+      "object_repr": "Электроэнергетика и электротехникавид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 209,
+    "fields": {
+      "action_time": "2023-07-09T13:58:54.098Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "37",
+      "object_repr": "Машиностроениевид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 210,
+    "fields": {
+      "action_time": "2023-07-09T13:59:39.422Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "7",
+      "object_repr": "Техносферная безопасностьвид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 211,
+    "fields": {
+      "action_time": "2023-07-09T14:00:00.648Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "8",
+      "object_repr": "Нефтегазовое деловид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 212,
+    "fields": {
+      "action_time": "2023-07-09T14:00:17.663Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "14",
+      "object_repr": "Технология транспортных процессоввид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 213,
+    "fields": {
+      "action_time": "2023-07-09T14:00:34.869Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "15",
+      "object_repr": "Наземные транспортно-технологические комплексывид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 214,
+    "fields": {
+      "action_time": "2023-07-09T14:00:46.790Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "16",
+      "object_repr": "Эксплуатация транспортно-технологических машин и комплексоввид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 215,
+    "fields": {
+      "action_time": "2023-07-09T14:01:49.761Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "38",
+      "object_repr": "Управление в технических системахвид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 216,
+    "fields": {
+      "action_time": "2023-07-09T14:02:45.088Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "39",
+      "object_repr": "Психологиявид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 217,
+    "fields": {
+      "action_time": "2023-07-09T14:03:06.284Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "20",
+      "object_repr": "Экономикавид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 218,
+    "fields": {
+      "action_time": "2023-07-09T14:03:22.101Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "21",
+      "object_repr": "Менеджментвид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 219,
+    "fields": {
+      "action_time": "2023-07-09T14:03:37.043Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "22",
+      "object_repr": "Торговое деловид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 220,
+    "fields": {
+      "action_time": "2023-07-09T14:03:50.523Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "24",
+      "object_repr": "Юриспруденциявид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 221,
+    "fields": {
+      "action_time": "2023-07-09T14:04:00.565Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "25",
+      "object_repr": "Международные отношениявид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 222,
+    "fields": {
+      "action_time": "2023-07-09T14:04:10.694Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "26",
+      "object_repr": "Сервисвид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 223,
+    "fields": {
+      "action_time": "2023-07-09T14:04:26.797Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "27",
+      "object_repr": "Туризмвид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 224,
+    "fields": {
+      "action_time": "2023-07-09T14:04:38.451Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "28",
+      "object_repr": "Интеллектуальные системы в гуманитарной сферевид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Study forms\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 225,
+    "fields": {
+      "action_time": "2023-07-09T14:05:36.516Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "40",
+      "object_repr": "Документоведение и архивоведениевид:2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 226,
+    "fields": {
+      "action_time": "2023-07-09T14:15:56.763Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "24",
+      "object_repr": "Юриспруденциявид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 227,
+    "fields": {
+      "action_time": "2023-07-09T14:15:56.767Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "36",
+      "object_repr": "Электроэнергетика и электротехникавид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 228,
+    "fields": {
+      "action_time": "2023-07-09T14:15:56.769Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "16",
+      "object_repr": "Эксплуатация транспортно-технологических машин и комплексоввид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 229,
+    "fields": {
+      "action_time": "2023-07-09T14:15:56.771Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "11",
+      "object_repr": "Эксплуатация железных дорогвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 230,
+    "fields": {
+      "action_time": "2023-07-09T14:15:56.772Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "18",
+      "object_repr": "Экономическая безопасностьвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 231,
+    "fields": {
+      "action_time": "2023-07-09T14:15:56.774Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "20",
+      "object_repr": "Экономикавид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 232,
+    "fields": {
+      "action_time": "2023-07-09T14:15:56.776Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "38",
+      "object_repr": "Управление в технических системахвид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 233,
+    "fields": {
+      "action_time": "2023-07-09T14:15:56.778Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "22",
+      "object_repr": "Торговое деловид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 234,
+    "fields": {
+      "action_time": "2023-07-09T14:15:56.780Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "7",
+      "object_repr": "Техносферная безопасностьвид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 235,
+    "fields": {
+      "action_time": "2023-07-09T14:15:56.782Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "14",
+      "object_repr": "Технология транспортных процессоввид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 236,
+    "fields": {
+      "action_time": "2023-07-09T14:15:56.786Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "3",
+      "object_repr": "Строительство, эксплуатация, восстановление и техническое прикрытие автомобильных дорог, мостов и тоннелейвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 237,
+    "fields": {
+      "action_time": "2023-07-09T14:15:56.788Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "13",
+      "object_repr": "Строительство железных дорог, мостов и транспортных тоннелейвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 238,
+    "fields": {
+      "action_time": "2023-07-09T14:15:56.790Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "4",
+      "object_repr": "Строительствовид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 239,
+    "fields": {
+      "action_time": "2023-07-09T14:15:56.792Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "12",
+      "object_repr": "Системы обеспечения движения поездоввид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 240,
+    "fields": {
+      "action_time": "2023-07-09T14:15:56.794Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "26",
+      "object_repr": "Сервисвид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 241,
+    "fields": {
+      "action_time": "2023-07-09T14:15:56.796Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "17",
+      "object_repr": "Психология служебной деятельностивид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 242,
+    "fields": {
+      "action_time": "2023-07-09T14:15:56.797Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "39",
+      "object_repr": "Психологиявид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 243,
+    "fields": {
+      "action_time": "2023-07-09T14:23:54.808Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "34",
+      "object_repr": "Программная инженериявид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 244,
+    "fields": {
+      "action_time": "2023-07-09T14:23:54.811Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "29",
+      "object_repr": "Прикладная математика и информатикавид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 245,
+    "fields": {
+      "action_time": "2023-07-09T14:23:54.812Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "33",
+      "object_repr": "Прикладная информатикавид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 246,
+    "fields": {
+      "action_time": "2023-07-09T14:23:54.813Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "23",
+      "object_repr": "Правовое обеспечение национальной безопасностивид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 247,
+    "fields": {
+      "action_time": "2023-07-09T14:23:54.815Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "6",
+      "object_repr": "Пожарная безопасностьвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 248,
+    "fields": {
+      "action_time": "2023-07-09T14:23:54.816Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "10",
+      "object_repr": "Подвижной состав железных дорогвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 249,
+    "fields": {
+      "action_time": "2023-07-09T14:23:54.817Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "8",
+      "object_repr": "Нефтегазовое деловид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 250,
+    "fields": {
+      "action_time": "2023-07-09T14:23:54.819Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "9",
+      "object_repr": "Наземные транспортно-технологические средствавид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 251,
+    "fields": {
+      "action_time": "2023-07-09T14:23:54.820Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "15",
+      "object_repr": "Наземные транспортно-технологические комплексывид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 252,
+    "fields": {
+      "action_time": "2023-07-09T14:23:54.821Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "21",
+      "object_repr": "Менеджментвид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 253,
+    "fields": {
+      "action_time": "2023-07-09T14:23:54.822Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "25",
+      "object_repr": "Международные отношениявид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 254,
+    "fields": {
+      "action_time": "2023-07-09T14:23:54.823Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "37",
+      "object_repr": "Машиностроениевид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 255,
+    "fields": {
+      "action_time": "2023-07-09T14:23:54.824Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "32",
+      "object_repr": "Информационные системы и технологиивид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 256,
+    "fields": {
+      "action_time": "2023-07-09T14:23:54.825Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "5",
+      "object_repr": "Информационная безопасность автоматизированных системвид:1",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 257,
+    "fields": {
+      "action_time": "2023-07-09T14:23:54.826Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "31",
+      "object_repr": "Информатика и вычислительная техникавид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 258,
+    "fields": {
+      "action_time": "2023-07-09T14:23:54.827Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "35",
+      "object_repr": "Инфокоммуникационные технологии и системы связивид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 259,
+    "fields": {
+      "action_time": "2023-07-09T14:23:54.829Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "40",
+      "object_repr": "Документоведение и архивоведениевид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 260,
+    "fields": {
+      "action_time": "2023-07-09T14:23:54.830Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "30",
+      "object_repr": "Градостроительствовид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 261,
+    "fields": {
+      "action_time": "2023-07-11T00:52:51.944Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "40",
+      "object_repr": "Документоведение и архивоведениевид:2",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"\\u041e\\u043f\\u0438\\u0441\\u0430\\u043d\\u0438\\u0435 \\u0441\\u043f\\u0435\\u0446\\u0438\\u0430\\u043b\\u044c\\u043d\\u043e\\u0441\\u0442\\u0438\"]}}]"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+      "name": "Can add log entry",
+      "content_type": 1,
+      "codename": "add_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+      "name": "Can change log entry",
+      "content_type": 1,
+      "codename": "change_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+      "name": "Can delete log entry",
+      "content_type": 1,
+      "codename": "delete_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+      "name": "Can view log entry",
+      "content_type": 1,
+      "codename": "view_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+      "name": "Can add permission",
+      "content_type": 2,
+      "codename": "add_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+      "name": "Can change permission",
+      "content_type": 2,
+      "codename": "change_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+      "name": "Can delete permission",
+      "content_type": 2,
+      "codename": "delete_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+      "name": "Can view permission",
+      "content_type": 2,
+      "codename": "view_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+      "name": "Can add group",
+      "content_type": 3,
+      "codename": "add_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+      "name": "Can change group",
+      "content_type": 3,
+      "codename": "change_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+      "name": "Can delete group",
+      "content_type": 3,
+      "codename": "delete_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+      "name": "Can view group",
+      "content_type": 3,
+      "codename": "view_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+      "name": "Can add user",
+      "content_type": 4,
+      "codename": "add_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+      "name": "Can change user",
+      "content_type": 4,
+      "codename": "change_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+      "name": "Can delete user",
+      "content_type": 4,
+      "codename": "delete_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+      "name": "Can view user",
+      "content_type": 4,
+      "codename": "view_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+      "name": "Can add content type",
+      "content_type": 5,
+      "codename": "add_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+      "name": "Can change content type",
+      "content_type": 5,
+      "codename": "change_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+      "name": "Can delete content type",
+      "content_type": 5,
+      "codename": "delete_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+      "name": "Can view content type",
+      "content_type": 5,
+      "codename": "view_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+      "name": "Can add session",
+      "content_type": 6,
+      "codename": "add_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+      "name": "Can change session",
+      "content_type": 6,
+      "codename": "change_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+      "name": "Can delete session",
+      "content_type": 6,
+      "codename": "delete_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+      "name": "Can view session",
+      "content_type": 6,
+      "codename": "view_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+      "name": "Can add subject",
+      "content_type": 7,
+      "codename": "add_subject"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+      "name": "Can change subject",
+      "content_type": 7,
+      "codename": "change_subject"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+      "name": "Can delete subject",
+      "content_type": 7,
+      "codename": "delete_subject"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+      "name": "Can view subject",
+      "content_type": 7,
+      "codename": "view_subject"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+      "name": "Can add speciality",
+      "content_type": 8,
+      "codename": "add_speciality"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+      "name": "Can change speciality",
+      "content_type": 8,
+      "codename": "change_speciality"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+      "name": "Can delete speciality",
+      "content_type": 8,
+      "codename": "delete_speciality"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+      "name": "Can view speciality",
+      "content_type": 8,
+      "codename": "view_speciality"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+      "name": "Can add field of study",
+      "content_type": 9,
+      "codename": "add_fieldofstudy"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+      "name": "Can change field of study",
+      "content_type": 9,
+      "codename": "change_fieldofstudy"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+      "name": "Can delete field of study",
+      "content_type": 9,
+      "codename": "delete_fieldofstudy"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+      "name": "Can view field of study",
+      "content_type": 9,
+      "codename": "view_fieldofstudy"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+      "name": "Can add telegram user",
+      "content_type": 10,
+      "codename": "add_telegramuser"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+      "name": "Can change telegram user",
+      "content_type": 10,
+      "codename": "change_telegramuser"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+      "name": "Can delete telegram user",
+      "content_type": 10,
+      "codename": "delete_telegramuser"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+      "name": "Can view telegram user",
+      "content_type": 10,
+      "codename": "view_telegramuser"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+      "name": "Can add Предмет ЕГЭ",
+      "content_type": 7,
+      "codename": "add_exams"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+      "name": "Can change Предмет ЕГЭ",
+      "content_type": 7,
+      "codename": "change_exams"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+      "name": "Can delete Предмет ЕГЭ",
+      "content_type": 7,
+      "codename": "delete_exams"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+      "name": "Can view Предмет ЕГЭ",
+      "content_type": 7,
+      "codename": "view_exams"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 45,
+    "fields": {
+      "name": "Can add Направление",
+      "content_type": 9,
+      "codename": "add_studydirection"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 46,
+    "fields": {
+      "name": "Can change Направление",
+      "content_type": 9,
+      "codename": "change_studydirection"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 47,
+    "fields": {
+      "name": "Can delete Направление",
+      "content_type": 9,
+      "codename": "delete_studydirection"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 48,
+    "fields": {
+      "name": "Can view Направление",
+      "content_type": 9,
+      "codename": "view_studydirection"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 49,
+    "fields": {
+      "name": "Can add Специальность",
+      "content_type": 11,
+      "codename": "add_specialityanddirection"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 50,
+    "fields": {
+      "name": "Can change Специальность",
+      "content_type": 11,
+      "codename": "change_specialityanddirection"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 51,
+    "fields": {
+      "name": "Can delete Специальность",
+      "content_type": 11,
+      "codename": "delete_specialityanddirection"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 52,
+    "fields": {
+      "name": "Can view Специальность",
+      "content_type": 11,
+      "codename": "view_specialityanddirection"
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$600000$PahvAfxIZo7Z7qkgDQlGaJ$R+hbeLq+GGMab8EbiQ1gwzjEKjelaC+h8qxXGNpu8FE=",
+      "last_login": "2023-07-09T13:34:13.489Z",
+      "is_superuser": true,
+      "username": "kirill",
+      "first_name": "",
+      "last_name": "",
+      "email": "kirill.301522@gmail.com",
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2023-06-29T05:16:35.871Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+      "app_label": "admin",
+      "model": "logentry"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+      "app_label": "auth",
+      "model": "permission"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+      "app_label": "auth",
+      "model": "group"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+      "app_label": "auth",
+      "model": "user"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+      "app_label": "contenttypes",
+      "model": "contenttype"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+      "app_label": "sessions",
+      "model": "session"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+      "app_label": "abiturient",
+      "model": "exams"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+      "app_label": "abiturient",
+      "model": "speciality"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+      "app_label": "abiturient",
+      "model": "studydirection"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+      "app_label": "tgbot",
+      "model": "telegramuser"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+      "app_label": "abiturient",
+      "model": "specialityanddirection"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "3wvhlnwa4ooz60kt87qaae7rk0d0px9t",
+    "fields": {
+      "session_data": ".eJxVjDsOwjAQBe_iGlmsFf8o6TmDtetd4wBypDipIu4OkVJA-2bmbSrhutS0dpnTyOqiQJ1-N8L8lLYDfmC7TzpPbZlH0ruiD9r1bWJ5XQ_376Bir9_aDSBngFKATXEebDAGCeIQ2FsxgYRc5syCmYZo2TgnxRFjFE_FWPX-AOgWOMc:1qIUYH:Z8DOO7caJONYZvYeiO6-cg0mFgBqQnL286bGvkhOdRM",
+      "expire_date": "2023-07-23T13:34:13.502Z"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 2,
+    "fields": {
+      "name": "Мат. Профиль",
+      "slug": "m"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 3,
+    "fields": {
+      "name": "Информатика",
+      "slug": "in"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 4,
+    "fields": {
+      "name": "Биология",
+      "slug": "b"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 5,
+    "fields": {
+      "name": "Химия",
+      "slug": "h"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 6,
+    "fields": {
+      "name": "Физика",
+      "slug": "fi"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 7,
+    "fields": {
+      "name": "Обществознание",
+      "slug": "o"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 8,
+    "fields": {
+      "name": "История",
+      "slug": "i"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 9,
+    "fields": {
+      "name": "Иностранный язык",
+      "slug": "a"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 10,
+    "fields": {
+      "name": "Литература",
+      "slug": "l"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 11,
+    "fields": {
+      "name": "Французский язык",
+      "slug": "f"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 12,
+    "fields": {
+      "name": "География",
+      "slug": "g"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 13,
+    "fields": {
+      "name": "Проф испытания",
+      "slug": "p"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 1,
+    "fields": {
+      "name": "Информатика и вычислительная техника",
+      "description": "Хорошее направление",
+      "code": "09"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 3,
+    "fields": {
+      "name": "Техника и технологии строительства",
+      "description": "Строят",
+      "code": "08"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 4,
+    "fields": {
+      "name": "Информационная безопасность",
+      "description": "очень безопасно",
+      "code": "10"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 5,
+    "fields": {
+      "name": "Техносферная безопасность и природообустройство",
+      "description": "пожарники",
+      "code": "20"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 6,
+    "fields": {
+      "name": "Прикладная геология, горное дело, нефтегазовое дело и геодезия",
+      "description": "нефтегаз",
+      "code": "21"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 7,
+    "fields": {
+      "name": "Техника и технологии наземного транспорта",
+      "description": "транспорт",
+      "code": "23"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 8,
+    "fields": {
+      "name": "Психологические науки",
+      "description": "будут делать деньги потом на наших детских травмах",
+      "code": "37"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 9,
+    "fields": {
+      "name": "Экономика и управление",
+      "description": "",
+      "code": "38"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 10,
+    "fields": {
+      "name": "Юриспруденция",
+      "description": "",
+      "code": "40"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 11,
+    "fields": {
+      "name": "Политические науки и регионоведение",
+      "description": "",
+      "code": "41"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 12,
+    "fields": {
+      "name": "Сервис и туризм",
+      "description": "",
+      "code": "43"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 13,
+    "fields": {
+      "name": "Языкознание и литературоведение",
+      "description": "",
+      "code": "45"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 14,
+    "fields": {
+      "name": "Строительство",
+      "description": "",
+      "code": ""
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 1,
+    "fields": {
+      "name": "Строительство уникальных зданий и сооружений",
+      "code": "08.05.01",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/554-programma-spetsialiteta-stroitelstvo-unikalnykh-zdanij-i-sooruzhenij",
+      "study_forms": "1",
+      "field_of_study": 3,
+      "lot_of_budgets": 15,
+      "lot_of_extrabudgets": 5,
+      "degree": "1",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 3,
+    "fields": {
+      "name": "Строительство, эксплуатация, восстановление и техническое прикрытие автомобильных дорог, мостов и тоннелей",
+      "code": "08.05.02",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/555-programma-spetsialiteta-stroitelstvo-ekspluatatsiya-vosstanovlenie-i-tekhnicheskoe-prikrytie-avtomobilnykh-dorog-mostov-i-tonnelej",
+      "study_forms": "1",
+      "field_of_study": 3,
+      "lot_of_budgets": 10,
+      "lot_of_extrabudgets": 5,
+      "degree": "1",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 4,
+    "fields": {
+      "name": "Строительство",
+      "code": "08.03.01",
+      "description": "https://dvgups.ru/structure/-mainmenu-138/its/-mainmenu-170",
+      "study_forms": "1,3",
+      "field_of_study": 3,
+      "lot_of_budgets": 50,
+      "lot_of_extrabudgets": 160,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 5,
+    "fields": {
+      "name": "Информационная безопасность автоматизированных систем",
+      "code": "10",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/544-napravlenie-spetsialiteta-informatsionnaya-bezopasnost-avtomatizirovannykh-sistem",
+      "study_forms": "1",
+      "field_of_study": 4,
+      "lot_of_budgets": 25,
+      "lot_of_extrabudgets": 20,
+      "degree": "1",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 6,
+    "fields": {
+      "name": "Пожарная безопасность",
+      "code": "20.05.01",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/550-programma-spetsialiteta-pozharnaya-bezopasnost",
+      "study_forms": "1,2",
+      "field_of_study": 5,
+      "lot_of_budgets": 20,
+      "lot_of_extrabudgets": 10,
+      "degree": "1",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 7,
+    "fields": {
+      "name": "Техносферная безопасность",
+      "code": "20.03.01",
+      "description": "https://dvgups.ru/structure/-mainmenu-138/-inmenu-146/-emainmenu-189",
+      "study_forms": "1,2",
+      "field_of_study": 5,
+      "lot_of_budgets": 20,
+      "lot_of_extrabudgets": 15,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 8,
+    "fields": {
+      "name": "Нефтегазовое дело",
+      "code": "21.03.01",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/564-napravlenie-bakalavriata-neftegazovoe-delo",
+      "study_forms": "1,3",
+      "field_of_study": 6,
+      "lot_of_budgets": 20,
+      "lot_of_extrabudgets": 15,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        12,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 9,
+    "fields": {
+      "name": "Наземные транспортно-технологические средства",
+      "code": "23.05.01",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/545-napravlenie-spetsialiteta-nazemnye-transportno-tekhnologicheskie-sredstva",
+      "study_forms": "1,2",
+      "field_of_study": 7,
+      "lot_of_budgets": 40,
+      "lot_of_extrabudgets": 5,
+      "degree": "1",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 10,
+    "fields": {
+      "name": "Подвижной состав железных дорог",
+      "code": "23.05.03",
+      "description": "не найдено, поищите на сайте: https://abiturient.dvgups.ru/2016-05-20-01-40-30",
+      "study_forms": "1,2",
+      "field_of_study": 7,
+      "lot_of_budgets": 75,
+      "lot_of_extrabudgets": 5,
+      "degree": "1",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 11,
+    "fields": {
+      "name": "Эксплуатация железных дорог",
+      "code": "23.05.04",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/557-programma-spetsialiteta-ekspluatatsiya-zheleznykh-dorog",
+      "study_forms": "1,2",
+      "field_of_study": 7,
+      "lot_of_budgets": 60,
+      "lot_of_extrabudgets": 5,
+      "degree": "1",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 12,
+    "fields": {
+      "name": "Системы обеспечения движения поездов",
+      "code": "23.05.05",
+      "description": "https://dvgups.ru/2204--sp-388/raznoe/spetsialnosti-iuat/7249-sistemy-obespecheniya-dvizheniya-poezdov",
+      "study_forms": "1,2",
+      "field_of_study": 7,
+      "lot_of_budgets": 110,
+      "lot_of_extrabudgets": 10,
+      "degree": "1",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 13,
+    "fields": {
+      "name": "Строительство железных дорог, мостов и транспортных тоннелей",
+      "code": "23.03.06",
+      "description": "https://dvgups.ru/-27150165-",
+      "study_forms": "1,2",
+      "field_of_study": 7,
+      "lot_of_budgets": 100,
+      "lot_of_extrabudgets": 10,
+      "degree": "1",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 14,
+    "fields": {
+      "name": "Технология транспортных процессов",
+      "code": "23.03.01",
+      "description": "https://dvgups.ru/structure/-mainmenu-138/iuat/-mainmenu-182",
+      "study_forms": "1,2",
+      "field_of_study": 7,
+      "lot_of_budgets": 30,
+      "lot_of_extrabudgets": 25,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 15,
+    "fields": {
+      "name": "Наземные транспортно-технологические комплексы",
+      "code": "23.03.02",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/545-napravlenie-spetsialiteta-nazemnye-transportno-tekhnologicheskie-sredstva",
+      "study_forms": "1",
+      "field_of_study": 7,
+      "lot_of_budgets": 0,
+      "lot_of_extrabudgets": 190,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 16,
+    "fields": {
+      "name": "Эксплуатация транспортно-технологических машин и комплексов",
+      "code": "23.03.03",
+      "description": "не найдено, поищите на сайте: https://abiturient.dvgups.ru/2016-05-20-01-40-30",
+      "study_forms": "1",
+      "field_of_study": 7,
+      "lot_of_budgets": 15,
+      "lot_of_extrabudgets": 10,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 17,
+    "fields": {
+      "name": "Психология служебной деятельности",
+      "code": "37.05.02",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/551-programma-spetsialiteta-psikhologiya-sluzhebnoj-deyatelnosti",
+      "study_forms": "1",
+      "field_of_study": 8,
+      "lot_of_budgets": 0,
+      "lot_of_extrabudgets": 25,
+      "degree": "1",
+      "main_subjects": [
+        4
+      ],
+      "choice_subjects": [
+        9,
+        2,
+        7
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 18,
+    "fields": {
+      "name": "Экономическая безопасность",
+      "code": "38.05.01",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/592-programma-spetsialiteta-ekonomicheskaya-bezopasnost",
+      "study_forms": "1,2,3",
+      "field_of_study": 9,
+      "lot_of_budgets": 0,
+      "lot_of_extrabudgets": 60,
+      "degree": "1",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        8,
+        9,
+        12,
+        7
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 19,
+    "fields": {
+      "name": "Таможенное дело",
+      "code": "38.05.02",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/556-programma-spetsialiteta-tamozhennoe-delo",
+      "study_forms": "1,2",
+      "field_of_study": 9,
+      "lot_of_budgets": 0,
+      "lot_of_extrabudgets": 190,
+      "degree": "1",
+      "main_subjects": [
+        7
+      ],
+      "choice_subjects": [
+        9,
+        3,
+        12,
+        13
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 20,
+    "fields": {
+      "name": "Экономика",
+      "code": "38.03.01",
+      "description": "не найдено, поищите на сайте: https://abiturient.dvgups.ru/2016-05-20-01-40-30",
+      "study_forms": "1,2",
+      "field_of_study": 9,
+      "lot_of_budgets": 10,
+      "lot_of_extrabudgets": 50,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        8,
+        9,
+        12,
+        7
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 21,
+    "fields": {
+      "name": "Менеджмент",
+      "code": "38.03.02",
+      "description": "https://dvgups.ru/structure/-mainmenu-138/mainmenu-148/-mainmenu-178",
+      "study_forms": "1,2",
+      "field_of_study": 9,
+      "lot_of_budgets": 10,
+      "lot_of_extrabudgets": 50,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        8,
+        9,
+        12,
+        7
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 22,
+    "fields": {
+      "name": "Торговое дело",
+      "code": "38.03.06",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/575-napravlenie-bakalavriata-torgovoe-delo",
+      "study_forms": "1",
+      "field_of_study": 9,
+      "lot_of_budgets": 0,
+      "lot_of_extrabudgets": 20,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        8,
+        9,
+        12,
+        7
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 23,
+    "fields": {
+      "name": "Правовое обеспечение национальной безопасности",
+      "code": "40.05.01",
+      "description": "не найдено, поищите на сайте: https://abiturient.dvgups.ru/2016-05-20-01-40-30",
+      "study_forms": "1,2",
+      "field_of_study": 10,
+      "lot_of_budgets": 0,
+      "lot_of_extrabudgets": 35,
+      "degree": "1",
+      "main_subjects": [
+        7
+      ],
+      "choice_subjects": [
+        8,
+        9,
+        3
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 24,
+    "fields": {
+      "name": "Юриспруденция",
+      "code": "40.03.01",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/596-napravlenie-bakalavriata-yurisprudentsiya",
+      "study_forms": "1,2,3",
+      "field_of_study": 10,
+      "lot_of_budgets": 20,
+      "lot_of_extrabudgets": 60,
+      "degree": "2",
+      "main_subjects": [
+        7
+      ],
+      "choice_subjects": [
+        8,
+        9,
+        3
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 25,
+    "fields": {
+      "name": "Международные отношения",
+      "code": "41.03.05",
+      "description": "https://dvgups.ru/1044--sp-798/dop-inform/14597-o-napravlenii-podgotovki-41-03-05-mezhdunarodnye-otnosheniya",
+      "study_forms": "1",
+      "field_of_study": 11,
+      "lot_of_budgets": 0,
+      "lot_of_extrabudgets": 20,
+      "degree": "2",
+      "main_subjects": [
+        8
+      ],
+      "choice_subjects": [
+        9,
+        12,
+        7
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 26,
+    "fields": {
+      "name": "Сервис",
+      "code": "43.03.01",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/569-napravlenie-bakalavriata-servis",
+      "study_forms": "1,2",
+      "field_of_study": 12,
+      "lot_of_budgets": 13,
+      "lot_of_extrabudgets": 15,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        8,
+        9,
+        12,
+        7
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 27,
+    "fields": {
+      "name": "Туризм",
+      "code": "43.03.02",
+      "description": "https://dvgups.ru/kafedra-mezhdunarodnye-kommunikatsii-servis-i-turizm/2227--sp-388/mf/dopolnitelnye-stati-ims/11356-napravlenie-podgotovki-43-03-02-turizm-bakalavriat",
+      "study_forms": "1,2",
+      "field_of_study": 12,
+      "lot_of_budgets": 10,
+      "lot_of_extrabudgets": 15,
+      "degree": "2",
+      "main_subjects": [
+        8
+      ],
+      "choice_subjects": [
+        9,
+        4,
+        12,
+        7
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 28,
+    "fields": {
+      "name": "Интеллектуальные системы в гуманитарной сфере",
+      "code": "45.03.04",
+      "description": "https://dvgups.ru/structure/-mainmenu-138/-inmenu-146/-r-q-mainmenu-184/15354-napravlenie-podgotovki-45-03-04-intellektualnye-sistemy-v-gumanitarnoj-sfere",
+      "study_forms": "1",
+      "field_of_study": 13,
+      "lot_of_budgets": 17,
+      "lot_of_extrabudgets": 25,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        9,
+        3
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 29,
+    "fields": {
+      "name": "Прикладная математика и информатика",
+      "code": "01.03.02",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/566-napravlenie-bakalavriata-prikladnaya-matematika-i-informatika",
+      "study_forms": "1",
+      "field_of_study": 1,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 30,
+    "fields": {
+      "name": "Градостроительство",
+      "code": "07.03.04",
+      "description": "не найдено, поищите на сайте: https://abiturient.dvgups.ru/2016-05-20-01-40-30",
+      "study_forms": "1",
+      "field_of_study": 14,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        13
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 31,
+    "fields": {
+      "name": "Информатика и вычислительная техника",
+      "code": "09.03.01",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/561-napravlenie-bakalavriata-informatika-i-vychislitelnaya-tekhnika",
+      "study_forms": "1,2",
+      "field_of_study": 1,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 32,
+    "fields": {
+      "name": "Информационные системы и технологии",
+      "code": "09.03.02",
+      "description": "https://dvgups.ru/structure/-mainmenu-138/iuat/-q-mainmenu-165",
+      "study_forms": "1",
+      "field_of_study": 1,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 33,
+    "fields": {
+      "name": "Прикладная информатика",
+      "code": "09.03.03",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/565-napravlenie-bakalavriata-prikladnaya-informatika",
+      "study_forms": "1",
+      "field_of_study": 1,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 34,
+    "fields": {
+      "name": "Программная инженерия",
+      "code": "09.03.04",
+      "description": "https://dvgups.ru/structure/-mainmenu-138/iuat/2204--sp-388/raznoe/spetsialnosti-iuat/12938-napravlenie-podgotovki-09-03-04-programmnaya-inzheneriya",
+      "study_forms": "1",
+      "field_of_study": 1,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 35,
+    "fields": {
+      "name": "Инфокоммуникационные технологии и системы связи",
+      "code": "11.03.02",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/560-napravlenie-bakalavriata-infokommunikatsionnye-tekhnologii-i-sistemy-svyazi",
+      "study_forms": "1,2",
+      "field_of_study": 1,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 36,
+    "fields": {
+      "name": "Электроэнергетика и электротехника",
+      "code": "13.03.02",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/578-napravlenie-bakalavriata-elektroenergetika-i-elektrotekhnika-elektrosnabzhenie",
+      "study_forms": "1,2",
+      "field_of_study": 1,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 37,
+    "fields": {
+      "name": "Машиностроение",
+      "code": "15.03.01",
+      "description": "не найдено, поищите на сайте: https://abiturient.dvgups.ru/2016-05-20-01-40-30",
+      "study_forms": "1,2",
+      "field_of_study": 1,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 38,
+    "fields": {
+      "name": "Управление в технических системах",
+      "code": "27.03.04",
+      "description": "не найдено, поищите на сайте: https://abiturient.dvgups.ru/2016-05-20-01-40-30",
+      "study_forms": "1",
+      "field_of_study": 1,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 39,
+    "fields": {
+      "name": "Психология",
+      "code": "37.03.01",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/568-napravlenie-bakalavriata-psikhologiya",
+      "study_forms": "3",
+      "field_of_study": 8,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        4
+      ],
+      "choice_subjects": [
+        9,
+        2,
+        7
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 40,
+    "fields": {
+      "name": "Документоведение и архивоведение",
+      "code": "46.03.02",
+      "description": "",
+      "study_forms": "1,2",
+      "field_of_study": 13,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        8
+      ],
+      "choice_subjects": [
+        3,
+        7,
+        9,
+        10,
+        12
+      ]
+    }
+  },
+  {
+    "model": "tgbot.telegramuser",
+    "pk": 532318510,
+    "fields": {
+      "name": "yresofu",
+      "username": "",
+      "is_banned": false,
+      "history": {},
+      "subjects": []
+    }
+  },
+  {
+    "model": "tgbot.telegramuser",
+    "pk": 723469534,
+    "fields": {
+      "name": "Kirill",
+      "username": "",
+      "is_banned": false,
+      "history": {},
+      "subjects": []
+    }
+  }
+]
