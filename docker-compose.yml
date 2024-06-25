@@ -1,21 +1,25 @@
 version: '3.3'
 
 services:
-  web:
-    build: .
+  backend:
+    build: core
     volumes:
       - static_volume:/app/static/
       - media_volume:/app/media/
+      - backend_volume:/app
+    entrypoint: ["sh", "entrypoint.sh"]
     ports:
-      - "8000:8000"
+      - "8000"
     env_file:
       - .env
     depends_on:
-      - db
+      - postgres_db
     environment:
-      - POSTGRES_HOST=db
+      - POSTGRES_HOST=postgres_db
+      - REDIS_HOST=redis
+      - RABBITMQ_HOST=rabbitmq
 
-  db:
+  postgres_db:
     image: postgres:16
     env_file:
       - .env
@@ -26,14 +30,16 @@ services:
     build: ./nginx
     restart: always
     ports:
-      - "443:443"
+      - "80:80"
     volumes:
       - static_volume:/app/static
       - media_volume:/app/media
     depends_on:
-      - web
+      - backend
 
 volumes:
   postgres_data:
   static_volume:
   media_volume:
+
+  backend_volume:

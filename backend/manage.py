@@ -7,7 +7,7 @@ import sys
 def main():
     """Run administrative tasks."""
     if os.environ.get('DJANGO_SETTINGS_MODULE') == None:
-        os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'DvgUpsAbiturient.settings')
+        os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'config.settings')
     try:
         from django.core.management import execute_from_command_line
     except ImportError as exc:

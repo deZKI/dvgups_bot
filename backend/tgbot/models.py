@@ -1,6 +1,6 @@
 from django.db import models
 
-from abiturient.models import Exams
+from backend.abiturient.models import Exams
 
 class TelegramUser(models.Model):
     telegram_id = models.PositiveBigIntegerField(primary_key=True)
