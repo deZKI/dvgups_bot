@@ -1,10 +1,5 @@
-import random
-
 from django.contrib import admin
 from abiturient.models import Exams, Speciality, StudyDirection
-
-
-# Register your models here.
 
 
 @admin.register(Exams)

@@ -1,14 +1,23 @@
-FROM python:3.11-alpine
+# Базовый образ
+FROM python:3.12-alpine
 
-ENV PYTHONUNBUFFERED=1
+# устанавливаем netcat
+RUN echo "http://dl-cdn.alpinelinux.org/alpine/v3.19/main" > /etc/apk/repositories && \
+    echo "http://dl-cdn.alpinelinux.org/alpine/v3.19/community" >> /etc/apk/repositories && \
+    apk add --no-cache netcat-openbsd build-base libffi-dev
 
+
+# Установка рабочей директории в контейнере
 WORKDIR /app
+
+# Копирование файлов зависимостей
 COPY . /app
 
-RUN apk update && apk add build-base libffi-dev python3-dev
-RUN apk add py3-cffi
+# Установка poetry и зависимостей проекта
+RUN pip install -r requirements.txt
 
-RUN pip install --no-cache-dir -r requirements.txt
+# Делаем entrypoint скрипт исполняемым
+RUN chmod +x entrypoint.sh
 
-RUN python manage.py makemigrations
-RUN python manage.py collectstatic --settings DvgUpsAbiturient.settings.prod
+# Установка entrypoint
+ENTRYPOINT ["sh", "entrypoint.sh"]

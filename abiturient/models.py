@@ -1,5 +1,3 @@
-import types
-
 from django.db import models
 from multiselectfield import MultiSelectField
 
@@ -69,4 +67,3 @@ class Speciality(models.Model):
 
     def __str__(self):
         return self.name + 'вид:' + self.degree
-# Create your models here.
