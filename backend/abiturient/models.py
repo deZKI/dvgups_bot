@@ -1,7 +1,7 @@
 from django.db import models
 from multiselectfield import MultiSelectField
 
-STATUSES = (
+DEGREES_STATUSES = (
     ('0', 'Магистратура'),
     ('1', 'Специалитет'),
     ('2', 'Бакалавриат')
@@ -53,7 +53,7 @@ class Speciality(models.Model):
     lot_of_budgets = models.IntegerField(verbose_name='количество бюджетных мест', blank=True, default=5)
     lot_of_extrabudgets = models.IntegerField(verbose_name='количество внебюджетных мест', blank=True, default=5)
 
-    degree = models.CharField(max_length=70, choices=STATUSES, verbose_name='Вид Обучения')
+    degree = models.CharField(max_length=70, choices=DEGREES_STATUSES, verbose_name='Вид Обучения')
 
     class Meta:
         verbose_name = 'Специальность'

@@ -1,0 +1,1102 @@
+[
+  {
+    "model": "abiturient.exams",
+    "pk": 2,
+    "fields": {
+      "name": "Мат. Профиль",
+      "slug": "m"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 3,
+    "fields": {
+      "name": "Информатика",
+      "slug": "in"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 4,
+    "fields": {
+      "name": "Биология",
+      "slug": "b"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 5,
+    "fields": {
+      "name": "Химия",
+      "slug": "h"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 6,
+    "fields": {
+      "name": "Физика",
+      "slug": "fi"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 7,
+    "fields": {
+      "name": "Обществознание",
+      "slug": "o"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 8,
+    "fields": {
+      "name": "История",
+      "slug": "i"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 9,
+    "fields": {
+      "name": "Иностранный язык",
+      "slug": "a"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 10,
+    "fields": {
+      "name": "Литература",
+      "slug": "l"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 11,
+    "fields": {
+      "name": "Французский язык",
+      "slug": "f"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 12,
+    "fields": {
+      "name": "География",
+      "slug": "g"
+    }
+  },
+  {
+    "model": "abiturient.exams",
+    "pk": 13,
+    "fields": {
+      "name": "Проф испытания",
+      "slug": "p"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 1,
+    "fields": {
+      "name": "Информатика и вычислительная техника",
+      "description": "Хорошее направление",
+      "code": "09"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 3,
+    "fields": {
+      "name": "Техника и технологии строительства",
+      "description": "Строят",
+      "code": "08"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 4,
+    "fields": {
+      "name": "Информационная безопасность",
+      "description": "очень безопасно",
+      "code": "10"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 5,
+    "fields": {
+      "name": "Техносферная безопасность и природообустройство",
+      "description": "пожарники",
+      "code": "20"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 6,
+    "fields": {
+      "name": "Прикладная геология, горное дело, нефтегазовое дело и геодезия",
+      "description": "нефтегаз",
+      "code": "21"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 7,
+    "fields": {
+      "name": "Техника и технологии наземного транспорта",
+      "description": "транспорт",
+      "code": "23"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 8,
+    "fields": {
+      "name": "Психологические науки",
+      "description": "будут делать деньги потом на наших детских травмах",
+      "code": "37"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 9,
+    "fields": {
+      "name": "Экономика и управление",
+      "description": "",
+      "code": "38"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 10,
+    "fields": {
+      "name": "Юриспруденция",
+      "description": "",
+      "code": "40"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 11,
+    "fields": {
+      "name": "Политические науки и регионоведение",
+      "description": "",
+      "code": "41"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 12,
+    "fields": {
+      "name": "Сервис и туризм",
+      "description": "",
+      "code": "43"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 13,
+    "fields": {
+      "name": "Языкознание и литературоведение",
+      "description": "",
+      "code": "45"
+    }
+  },
+  {
+    "model": "abiturient.studydirection",
+    "pk": 14,
+    "fields": {
+      "name": "Строительство",
+      "description": "",
+      "code": ""
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 1,
+    "fields": {
+      "name": "Строительство уникальных зданий и сооружений",
+      "code": "08.05.01",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/554-programma-spetsialiteta-stroitelstvo-unikalnykh-zdanij-i-sooruzhenij",
+      "study_forms": "1",
+      "field_of_study": 3,
+      "lot_of_budgets": 15,
+      "lot_of_extrabudgets": 5,
+      "degree": "1",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 3,
+    "fields": {
+      "name": "Строительство, эксплуатация, восстановление и техническое прикрытие автомобильных дорог, мостов и тоннелей",
+      "code": "08.05.02",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/555-programma-spetsialiteta-stroitelstvo-ekspluatatsiya-vosstanovlenie-i-tekhnicheskoe-prikrytie-avtomobilnykh-dorog-mostov-i-tonnelej",
+      "study_forms": "1",
+      "field_of_study": 3,
+      "lot_of_budgets": 10,
+      "lot_of_extrabudgets": 5,
+      "degree": "1",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 4,
+    "fields": {
+      "name": "Строительство",
+      "code": "08.03.01",
+      "description": "https://dvgups.ru/structure/-mainmenu-138/its/-mainmenu-170",
+      "study_forms": "1,3",
+      "field_of_study": 3,
+      "lot_of_budgets": 50,
+      "lot_of_extrabudgets": 160,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 5,
+    "fields": {
+      "name": "Информационная безопасность автоматизированных систем",
+      "code": "10",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/544-napravlenie-spetsialiteta-informatsionnaya-bezopasnost-avtomatizirovannykh-sistem",
+      "study_forms": "1",
+      "field_of_study": 4,
+      "lot_of_budgets": 25,
+      "lot_of_extrabudgets": 20,
+      "degree": "1",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 6,
+    "fields": {
+      "name": "Пожарная безопасность",
+      "code": "20.05.01",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/550-programma-spetsialiteta-pozharnaya-bezopasnost",
+      "study_forms": "1,2",
+      "field_of_study": 5,
+      "lot_of_budgets": 20,
+      "lot_of_extrabudgets": 10,
+      "degree": "1",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 7,
+    "fields": {
+      "name": "Техносферная безопасность",
+      "code": "20.03.01",
+      "description": "https://dvgups.ru/structure/-mainmenu-138/-inmenu-146/-emainmenu-189",
+      "study_forms": "1,2",
+      "field_of_study": 5,
+      "lot_of_budgets": 20,
+      "lot_of_extrabudgets": 15,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 8,
+    "fields": {
+      "name": "Нефтегазовое дело",
+      "code": "21.03.01",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/564-napravlenie-bakalavriata-neftegazovoe-delo",
+      "study_forms": "1,3",
+      "field_of_study": 6,
+      "lot_of_budgets": 20,
+      "lot_of_extrabudgets": 15,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        12,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 9,
+    "fields": {
+      "name": "Наземные транспортно-технологические средства",
+      "code": "23.05.01",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/545-napravlenie-spetsialiteta-nazemnye-transportno-tekhnologicheskie-sredstva",
+      "study_forms": "1,2",
+      "field_of_study": 7,
+      "lot_of_budgets": 40,
+      "lot_of_extrabudgets": 5,
+      "degree": "1",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 10,
+    "fields": {
+      "name": "Подвижной состав железных дорог",
+      "code": "23.05.03",
+      "description": "не найдено, поищите на сайте: https://abiturient.dvgups.ru/2016-05-20-01-40-30",
+      "study_forms": "1,2",
+      "field_of_study": 7,
+      "lot_of_budgets": 75,
+      "lot_of_extrabudgets": 5,
+      "degree": "1",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 11,
+    "fields": {
+      "name": "Эксплуатация железных дорог",
+      "code": "23.05.04",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/557-programma-spetsialiteta-ekspluatatsiya-zheleznykh-dorog",
+      "study_forms": "1,2",
+      "field_of_study": 7,
+      "lot_of_budgets": 60,
+      "lot_of_extrabudgets": 5,
+      "degree": "1",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 12,
+    "fields": {
+      "name": "Системы обеспечения движения поездов",
+      "code": "23.05.05",
+      "description": "https://dvgups.ru/2204--sp-388/raznoe/spetsialnosti-iuat/7249-sistemy-obespecheniya-dvizheniya-poezdov",
+      "study_forms": "1,2",
+      "field_of_study": 7,
+      "lot_of_budgets": 110,
+      "lot_of_extrabudgets": 10,
+      "degree": "1",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 13,
+    "fields": {
+      "name": "Строительство железных дорог, мостов и транспортных тоннелей",
+      "code": "23.03.06",
+      "description": "https://dvgups.ru/-27150165-",
+      "study_forms": "1,2",
+      "field_of_study": 7,
+      "lot_of_budgets": 100,
+      "lot_of_extrabudgets": 10,
+      "degree": "1",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 14,
+    "fields": {
+      "name": "Технология транспортных процессов",
+      "code": "23.03.01",
+      "description": "https://dvgups.ru/structure/-mainmenu-138/iuat/-mainmenu-182",
+      "study_forms": "1,2",
+      "field_of_study": 7,
+      "lot_of_budgets": 30,
+      "lot_of_extrabudgets": 25,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 15,
+    "fields": {
+      "name": "Наземные транспортно-технологические комплексы",
+      "code": "23.03.02",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/545-napravlenie-spetsialiteta-nazemnye-transportno-tekhnologicheskie-sredstva",
+      "study_forms": "1",
+      "field_of_study": 7,
+      "lot_of_budgets": 0,
+      "lot_of_extrabudgets": 190,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 16,
+    "fields": {
+      "name": "Эксплуатация транспортно-технологических машин и комплексов",
+      "code": "23.03.03",
+      "description": "не найдено, поищите на сайте: https://abiturient.dvgups.ru/2016-05-20-01-40-30",
+      "study_forms": "1",
+      "field_of_study": 7,
+      "lot_of_budgets": 15,
+      "lot_of_extrabudgets": 10,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 17,
+    "fields": {
+      "name": "Психология служебной деятельности",
+      "code": "37.05.02",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/551-programma-spetsialiteta-psikhologiya-sluzhebnoj-deyatelnosti",
+      "study_forms": "1",
+      "field_of_study": 8,
+      "lot_of_budgets": 0,
+      "lot_of_extrabudgets": 25,
+      "degree": "1",
+      "main_subjects": [
+        4
+      ],
+      "choice_subjects": [
+        9,
+        2,
+        7
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 18,
+    "fields": {
+      "name": "Экономическая безопасность",
+      "code": "38.05.01",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/592-programma-spetsialiteta-ekonomicheskaya-bezopasnost",
+      "study_forms": "1,2,3",
+      "field_of_study": 9,
+      "lot_of_budgets": 0,
+      "lot_of_extrabudgets": 60,
+      "degree": "1",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        8,
+        9,
+        12,
+        7
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 19,
+    "fields": {
+      "name": "Таможенное дело",
+      "code": "38.05.02",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/556-programma-spetsialiteta-tamozhennoe-delo",
+      "study_forms": "1,2",
+      "field_of_study": 9,
+      "lot_of_budgets": 0,
+      "lot_of_extrabudgets": 190,
+      "degree": "1",
+      "main_subjects": [
+        7
+      ],
+      "choice_subjects": [
+        9,
+        3,
+        12,
+        13
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 20,
+    "fields": {
+      "name": "Экономика",
+      "code": "38.03.01",
+      "description": "не найдено, поищите на сайте: https://abiturient.dvgups.ru/2016-05-20-01-40-30",
+      "study_forms": "1,2",
+      "field_of_study": 9,
+      "lot_of_budgets": 10,
+      "lot_of_extrabudgets": 50,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        8,
+        9,
+        12,
+        7
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 21,
+    "fields": {
+      "name": "Менеджмент",
+      "code": "38.03.02",
+      "description": "https://dvgups.ru/structure/-mainmenu-138/mainmenu-148/-mainmenu-178",
+      "study_forms": "1,2",
+      "field_of_study": 9,
+      "lot_of_budgets": 10,
+      "lot_of_extrabudgets": 50,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        8,
+        9,
+        12,
+        7
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 22,
+    "fields": {
+      "name": "Торговое дело",
+      "code": "38.03.06",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/575-napravlenie-bakalavriata-torgovoe-delo",
+      "study_forms": "1",
+      "field_of_study": 9,
+      "lot_of_budgets": 0,
+      "lot_of_extrabudgets": 20,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        8,
+        9,
+        12,
+        7
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 23,
+    "fields": {
+      "name": "Правовое обеспечение национальной безопасности",
+      "code": "40.05.01",
+      "description": "не найдено, поищите на сайте: https://abiturient.dvgups.ru/2016-05-20-01-40-30",
+      "study_forms": "1,2",
+      "field_of_study": 10,
+      "lot_of_budgets": 0,
+      "lot_of_extrabudgets": 35,
+      "degree": "1",
+      "main_subjects": [
+        7
+      ],
+      "choice_subjects": [
+        8,
+        9,
+        3
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 24,
+    "fields": {
+      "name": "Юриспруденция",
+      "code": "40.03.01",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/596-napravlenie-bakalavriata-yurisprudentsiya",
+      "study_forms": "1,2,3",
+      "field_of_study": 10,
+      "lot_of_budgets": 20,
+      "lot_of_extrabudgets": 60,
+      "degree": "2",
+      "main_subjects": [
+        7
+      ],
+      "choice_subjects": [
+        8,
+        9,
+        3
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 25,
+    "fields": {
+      "name": "Международные отношения",
+      "code": "41.03.05",
+      "description": "https://dvgups.ru/1044--sp-798/dop-inform/14597-o-napravlenii-podgotovki-41-03-05-mezhdunarodnye-otnosheniya",
+      "study_forms": "1",
+      "field_of_study": 11,
+      "lot_of_budgets": 0,
+      "lot_of_extrabudgets": 20,
+      "degree": "2",
+      "main_subjects": [
+        8
+      ],
+      "choice_subjects": [
+        9,
+        12,
+        7
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 26,
+    "fields": {
+      "name": "Сервис",
+      "code": "43.03.01",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/569-napravlenie-bakalavriata-servis",
+      "study_forms": "1,2",
+      "field_of_study": 12,
+      "lot_of_budgets": 13,
+      "lot_of_extrabudgets": 15,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        8,
+        9,
+        12,
+        7
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 27,
+    "fields": {
+      "name": "Туризм",
+      "code": "43.03.02",
+      "description": "https://dvgups.ru/kafedra-mezhdunarodnye-kommunikatsii-servis-i-turizm/2227--sp-388/mf/dopolnitelnye-stati-ims/11356-napravlenie-podgotovki-43-03-02-turizm-bakalavriat",
+      "study_forms": "1,2",
+      "field_of_study": 12,
+      "lot_of_budgets": 10,
+      "lot_of_extrabudgets": 15,
+      "degree": "2",
+      "main_subjects": [
+        8
+      ],
+      "choice_subjects": [
+        9,
+        4,
+        12,
+        7
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 28,
+    "fields": {
+      "name": "Интеллектуальные системы в гуманитарной сфере",
+      "code": "45.03.04",
+      "description": "https://dvgups.ru/structure/-mainmenu-138/-inmenu-146/-r-q-mainmenu-184/15354-napravlenie-podgotovki-45-03-04-intellektualnye-sistemy-v-gumanitarnoj-sfere",
+      "study_forms": "1",
+      "field_of_study": 13,
+      "lot_of_budgets": 17,
+      "lot_of_extrabudgets": 25,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        9,
+        3
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 29,
+    "fields": {
+      "name": "Прикладная математика и информатика",
+      "code": "01.03.02",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/566-napravlenie-bakalavriata-prikladnaya-matematika-i-informatika",
+      "study_forms": "1",
+      "field_of_study": 1,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 30,
+    "fields": {
+      "name": "Градостроительство",
+      "code": "07.03.04",
+      "description": "не найдено, поищите на сайте: https://abiturient.dvgups.ru/2016-05-20-01-40-30",
+      "study_forms": "1",
+      "field_of_study": 14,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        13
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 31,
+    "fields": {
+      "name": "Информатика и вычислительная техника",
+      "code": "09.03.01",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/561-napravlenie-bakalavriata-informatika-i-vychislitelnaya-tekhnika",
+      "study_forms": "1,2",
+      "field_of_study": 1,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 32,
+    "fields": {
+      "name": "Информационные системы и технологии",
+      "code": "09.03.02",
+      "description": "https://dvgups.ru/structure/-mainmenu-138/iuat/-q-mainmenu-165",
+      "study_forms": "1",
+      "field_of_study": 1,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 33,
+    "fields": {
+      "name": "Прикладная информатика",
+      "code": "09.03.03",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/565-napravlenie-bakalavriata-prikladnaya-informatika",
+      "study_forms": "1",
+      "field_of_study": 1,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 34,
+    "fields": {
+      "name": "Программная инженерия",
+      "code": "09.03.04",
+      "description": "https://dvgups.ru/structure/-mainmenu-138/iuat/2204--sp-388/raznoe/spetsialnosti-iuat/12938-napravlenie-podgotovki-09-03-04-programmnaya-inzheneriya",
+      "study_forms": "1",
+      "field_of_study": 1,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 35,
+    "fields": {
+      "name": "Инфокоммуникационные технологии и системы связи",
+      "code": "11.03.02",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/560-napravlenie-bakalavriata-infokommunikatsionnye-tekhnologii-i-sistemy-svyazi",
+      "study_forms": "1,2",
+      "field_of_study": 1,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 36,
+    "fields": {
+      "name": "Электроэнергетика и электротехника",
+      "code": "13.03.02",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/578-napravlenie-bakalavriata-elektroenergetika-i-elektrotekhnika-elektrosnabzhenie",
+      "study_forms": "1,2",
+      "field_of_study": 1,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 37,
+    "fields": {
+      "name": "Машиностроение",
+      "code": "15.03.01",
+      "description": "не найдено, поищите на сайте: https://abiturient.dvgups.ru/2016-05-20-01-40-30",
+      "study_forms": "1,2",
+      "field_of_study": 1,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 38,
+    "fields": {
+      "name": "Управление в технических системах",
+      "code": "27.03.04",
+      "description": "не найдено, поищите на сайте: https://abiturient.dvgups.ru/2016-05-20-01-40-30",
+      "study_forms": "1",
+      "field_of_study": 1,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        2
+      ],
+      "choice_subjects": [
+        3,
+        5,
+        6
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 39,
+    "fields": {
+      "name": "Психология",
+      "code": "37.03.01",
+      "description": "https://abiturient.dvgups.ru/217-specialty-list-2/568-napravlenie-bakalavriata-psikhologiya",
+      "study_forms": "3",
+      "field_of_study": 8,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        4
+      ],
+      "choice_subjects": [
+        9,
+        2,
+        7
+      ]
+    }
+  },
+  {
+    "model": "abiturient.speciality",
+    "pk": 40,
+    "fields": {
+      "name": "Документоведение и архивоведение",
+      "code": "46.03.02",
+      "description": "",
+      "study_forms": "1,2",
+      "field_of_study": 13,
+      "lot_of_budgets": 5,
+      "lot_of_extrabudgets": 5,
+      "degree": "2",
+      "main_subjects": [
+        8
+      ],
+      "choice_subjects": [
+        3,
+        7,
+        9,
+        10,
+        12
+      ]
+    }
+  },
+  {
+    "model": "tgbot.telegramuser",
+    "pk": 532318510,
+    "fields": {
+      "name": "yresofu",
+      "username": "",
+      "is_banned": false,
+      "history": {},
+      "subjects": []
+    }
+  },
+  {
+    "model": "tgbot.telegramuser",
+    "pk": 723469534,
+    "fields": {
+      "name": "Kirill",
+      "username": "",
+      "is_banned": false,
+      "history": {},
+      "subjects": []
+    }
+  }
+]

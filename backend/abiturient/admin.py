@@ -1,5 +1,5 @@
 from django.contrib import admin
-from backend.abiturient.models import Exams, Speciality, StudyDirection
+from abiturient.models import Exams, Speciality, StudyDirection
 
 
 @admin.register(Exams)
