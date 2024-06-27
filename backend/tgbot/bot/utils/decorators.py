@@ -1,8 +1,9 @@
-from typing import Callable, Any
+from typing import Any, Callable
+
 from aiogram import types
 
-from tgbot.models import TelegramUser
 from tgbot.bot.messages import send_ban_message
+from tgbot.models import TelegramUser
 
 
 def telegram_user_validation(handler: Callable[[Any], Any]) -> Callable[[Any], Any]:

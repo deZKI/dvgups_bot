@@ -12,6 +12,9 @@ class TelegramUser(models.Model):
 
     subjects = models.ManyToManyField(to=Exams, verbose_name='предметы ЕГЭ для поступления')
 
+    def __str__(self):
+        return f'id: {self.telegram_id} - {self.name}'
+
     class Meta:
         verbose_name = 'Телеграм пользователь'
         verbose_name_plural = 'Телеграм пользователи'

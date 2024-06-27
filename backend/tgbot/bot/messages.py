@@ -1,28 +1,24 @@
+from datetime import datetime
+
 from aiogram import types
-from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
+from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
+from asgiref.sync import async_to_sync, sync_to_async
 from django.contrib.postgres.aggregates import ArrayAgg
-from abiturient.models import Speciality
-from tgbot.bot.keyboards import MAIN_MENU
-from tgbot.bot.consts import bot
-from asgiref.sync import sync_to_async
 from django.core.cache import cache
-from .consts import (
-    CACHE_TIMEOUT,
-    CACHE_KEY_EGA_OPTIONS,
-    CACHE_KEY_EGA_CHOICE_OPTIONS_TEMPLATE,
-    CACHE_KEY_SPECIALITIES_TEMPLATE,
-    CACHE_KEY_SPECIALITY_INFO_TEMPLATE,
-    TEXT_BANNED,
-    TEXT_MENU,
-    TEXT_SPO_INFO_1,
-    TEXT_SPO_INFO_2,
-    TEXT_EGA_OPTIONS,
-    TEXT_EGA_CHOICE_OPTIONS,
-    TEXT_SPECIALITIES,
-    TEXT_RUSSIAN_LANGUAGE,
-    TEXT_BACK_TO_MENU,
-    TEXT_BACK,
-)
+
+from abiturient.models import Speciality
+from mailing.models import Mailing, MailingRecipient
+from tgbot.bot.consts import bot
+from tgbot.bot.keyboards import MAIN_MENU
+
+from ..models import TelegramUser
+from .consts import (CACHE_KEY_EGA_CHOICE_OPTIONS_TEMPLATE,
+                     CACHE_KEY_EGA_OPTIONS, CACHE_KEY_SPECIALITIES_TEMPLATE,
+                     CACHE_KEY_SPECIALITY_INFO_TEMPLATE, CACHE_TIMEOUT,
+                     TEXT_BACK, TEXT_BACK_TO_MENU, TEXT_BANNED,
+                     TEXT_EGA_CHOICE_OPTIONS, TEXT_EGA_OPTIONS, TEXT_MENU,
+                     TEXT_RUSSIAN_LANGUAGE, TEXT_SPECIALITIES, TEXT_SPO_INFO_1,
+                     TEXT_SPO_INFO_2)
 
 
 async def send_ban_message(event: types.Message | types.CallbackQuery) -> None:
@@ -136,3 +132,26 @@ async def send_speciality_info(callback: types.CallbackQuery) -> None:
 
     await bot.send_message(chat_id=callback.message.chat.id, text=speciality.name)
     await bot.send_message(chat_id=callback.message.chat.id, text=speciality.description)
+
+
+async def async_send_mailing(mailing: Mailing):
+    users = await sync_to_async(list)(
+        TelegramUser.objects.filter(subjects__in=mailing.exams.all()).distinct()
+    )
+    text = '''
+    {}\n{}
+    '''
+    for user in users:
+        try:
+            await bot.send_message(chat_id=user.telegram_id, text=text.format(mailing.title, mailing.message))
+            await sync_to_async(MailingRecipient.objects.create)(
+                mailing=mailing, tg_user=user, sent_at=datetime.now()
+            )
+        except Exception as e:
+            print(f"Failed to send message to {user.telegram_id}: {e}")
+    mailing.sent = True
+    await sync_to_async(mailing.save)()
+
+
+def send_mailing(mailing: Mailing):
+    async_to_sync(async_send_mailing)(mailing)

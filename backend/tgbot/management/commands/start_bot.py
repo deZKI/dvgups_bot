@@ -1,10 +1,10 @@
+import asyncio
 import logging
 import sys
-import asyncio
 
 from django.core.management.base import BaseCommand
 
-from tgbot.bot.consts import dp, bot
+from tgbot.bot.consts import bot, dp
 from tgbot.bot.handlers import register_handlers
 
 

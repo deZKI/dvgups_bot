@@ -1,9 +1,9 @@
-from aiogram import Router, types, Dispatcher
+from aiogram import Dispatcher, Router, types
 from aiogram.filters import Command
 
-from tgbot.bot.utils.decorators import telegram_user_validation
-from tgbot.bot.messages import send_main_menu
 from tgbot.bot.consts import WELCOME_MESSAGE
+from tgbot.bot.messages import send_main_menu
+from tgbot.bot.utils.decorators import telegram_user_validation
 
 
 async def command_start(message: types.Message) -> None:

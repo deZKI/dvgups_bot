@@ -1,4 +1,5 @@
 from django.contrib import admin
+
 from abiturient.models import Exams, Speciality, StudyDirection
 
 

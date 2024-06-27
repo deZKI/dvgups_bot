@@ -1,14 +1,9 @@
-from aiogram import Router, types, Dispatcher
+from aiogram import Dispatcher, Router, types
 
+from tgbot.bot.messages import (send_ega_choice_options, send_ega_options,
+                                send_go_main_menu, send_specialities,
+                                send_speciality_info, send_spo_info)
 from tgbot.bot.utils.decorators import telegram_user_validation
-from tgbot.bot.messages import (
-    send_go_main_menu,
-    send_spo_info,
-    send_ega_options,
-    send_ega_choice_options,
-    send_specialities,
-    send_speciality_info
-)
 
 
 async def menu(callback: types.CallbackQuery) -> None:
