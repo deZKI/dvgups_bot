@@ -21,8 +21,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Делаем entrypoint скрипт исполняемым
 RUN chmod +x entrypoint.sh
 
-# Сборка статических файлов Django
-RUN python manage.py collectstatic --noinput --clear
-
 # Установка entrypoint
 ENTRYPOINT ["sh", "entrypoint.sh"]

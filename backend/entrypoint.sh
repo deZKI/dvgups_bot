@@ -2,6 +2,9 @@
 
 python manage.py migrate --noinput
 
+# Сборка статических файлов Django
+python manage.py collectstatic --noinput --clear
+
 # Start server
 echo "Starting server"
 
