@@ -1,19 +1,22 @@
 #!/bin/sh
 
+# Apply database migrations
 python manage.py migrate --noinput
 
-# Сборка статических файлов Django
+# Load fixtures
+echo "Loading fixtures"
+python manage.py loaddata fixtures/ab.json
+
+# Collect static files
 python manage.py collectstatic --noinput --clear
 
-# Start server
-echo "Starting server"
-
-gunicorn config.wsgi:application --bind 0.0.0.0:8000 --workers=4
-
-# Start server
+# Start the bot in the background
 echo "Starting bot"
+python manage.py start_bot --noinput --clear &
 
-python manage.py start_bot
+# Start Gunicorn server
+echo "Starting server"
+exec gunicorn config.wsgi:application --bind 0.0.0.0:8000 --workers=4
 
 # run the container CMD
 exec "$@"
